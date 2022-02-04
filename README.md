@@ -8,3 +8,6 @@ disponivel em [Desafios](https://app.rocketseat.com.br/discover/challenges).
 - SASS 
 - CSS 
 - HTML
+
+## Layout no Figma
+[Figma](https://www.figma.com/file/kIHcn7vqECQFelR72QNAoK/DD-%2F-Pricing-Table-(Copy)?node-id=3%3A2)
